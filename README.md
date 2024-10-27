@@ -5,7 +5,7 @@ teleGram scraper is a comprehensive, fully automated tool designed for Telegram,
 
 #### BUY HERE: [Download the tool here](https://2ly.link/20Y5G)
 
-<img src='scraper_menu.png' width='438'>
+<img src='menu.png' width='438'>
 
 ## What are the features of teleGram scraper?
 The teleGram scraper has a total of 40 features and tons of dynamic sub-features! New ones will be implemented!
